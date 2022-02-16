@@ -1,0 +1,13 @@
+
+	Antes de ejecutar: 
+	- Hago uso de tres librerias, las dejare en una carpeta aparte para que las 
+	pueda inclir. 
+	JCalendar, el Driver de MARIADB	Y La liberia DBUtils
+
+	1. La aplicacion inicia ejecutando el JFrame 'Carga'
+	2. Se abrira la interfaz 'Entrada' la cual se tendra que rellenar de la 
+	   siguiente manera (teniendo en cuenta las mayusculas): 
+		Usuario --> Admin 
+		Contraseña--> Password
+	3. Se abrira la interfaz de pacientes y dando click en el menu de la izquierda
+	se podran abrir las demas interfaces.
